@@ -1,5 +1,5 @@
 ### Login_com_ReactJS
-Este repositório tem como objetivo armazenar um projeto simples de sistema de login feito com ReactJs, com intuito de aprimor 
+Este repositório tem como objetivo armazenar um projeto simples de sistema de login feito com ReactJs, com intuito de aprimorar 
 meus conhecimentos em React.js 
 
 ## Como executar esse projeto
